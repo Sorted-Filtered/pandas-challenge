@@ -1,5 +1,6 @@
 # pandas-challenge
 Module 4
+
 Project Description
 Two databases were merged for analysis (students data and school data) and total district info summarized. Information then broken down by individual school, grade, budget, budget per capita, test scores, or by type (Charter, or District).
 
